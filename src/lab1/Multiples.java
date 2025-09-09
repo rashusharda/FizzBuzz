@@ -7,7 +7,7 @@ public class Multiples {
 
     }
 
-    static int multiples(int n, int a, int b) {
+    public static int multiples(int n, int a, int b) {
         int multipleCount = 0;
 
         for (int i = 1; i < n; i++){
