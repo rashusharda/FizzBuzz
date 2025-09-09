@@ -459,7 +459,7 @@ def multiples(n: int = 1000, a: int = 3, b: int = 5) -> int:
 Once you complete these steps, you can copy the `MultiplesDefaultTest.java` file into the `test/lab1` directory
 and run the tests in it to check your work — debugging as needed.
 
-- [ ] Use git to push your updated `Multiples.java` file to GitHub and run the self tests again on MarkUs.
+- [X] Use git to push your updated `Multiples.java` file to GitHub and run the self tests again on MarkUs.
 
 > Since MarkUs already has your GitHub URL, you don't need to "resubmit" that; you can just rerun the self
 > tests on MarkUs, and it will clone a copy of your most recent code from GitHub. Neat!
@@ -472,7 +472,7 @@ but the above was the core activity for this week.
 
 ## Checking your logs
 
-- [ ] Check with your team to see how many commits you each made during the lab in your FizzBuzz repo.
+- [] Check with your team to see how many commits you each made during the lab in your FizzBuzz repo.
   You can view the log of commits on GitHub or use the `git log` command to view a summary of the commits to the repository.
 
 ## Bonus: Collaboration with git (only if you have time)
